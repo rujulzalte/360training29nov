@@ -4,3 +4,4 @@ print("new line added")
 
 def feature1():
     print("this is feature 1")
+    print("updated")
